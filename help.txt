@@ -1,0 +1,3 @@
+1. To add text, write "add text" and on the next line write the text
+2. To complete the word write "complete" and on the next line write the word
+3. To add symbols, write "add letters" and on the next line write these letters
